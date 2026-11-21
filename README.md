@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hola, soy Juan Rubio 👋
+**Aprendiz SENA en Análisis y Desarrollo de Software (ADSO)** | Funza, Cundinamarca, Colombia
 
-<!--
-**JuanchoR23/JuanchoR23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estoy en búsqueda de "contrato de aprendizaje" para etapa productiva.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías que manejo
+- **Lenguajes:** Java, Python, JavaScript, HTML, CSS
+- **Bases de datos:** MySQL
+- **Herramientas:** Git, GitHub, Figma, Visual Studio CD, DBdraw, MYSQL Workbech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Proyectos destacados
+- **Sistema de Inventario** - CRUD completo con Java + MySQL
+- **Landing Page** - Página web responsive con HTML, CSS y JavaScript
+- **Proyecto ADSO SENA** - En desarrollo
+
+### 📈 Qué estoy aprendiendo ahora
+- Desarrollo Backend con Java y phyton
+- Logica, herramientas basicas.
+
+### 📫 Contacto
+- **Ubicación:** Funza, Colombia - Disponible para modalidad presencial / híbrida
+- **GitHub:** github.com/JuanchoR23
